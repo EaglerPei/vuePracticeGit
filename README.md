@@ -1,4 +1,4 @@
-# vueshoppingcartapp
+# vuePracticeGit
 
 ## Project setup
 ```
