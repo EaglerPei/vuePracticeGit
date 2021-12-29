@@ -1,4 +1,4 @@
-# vuePracticeGit
+# vuepracticegit
 
 ## Project setup
 ```
